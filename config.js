@@ -41,26 +41,26 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['436993190999919'] //ur owner number
-global.ownername = "Afuka"
-global.ytname = "Instagram @khlfyrmdni" //ur yt chanel name
-global.socialm = "GitHub: HalfyDxrkness" //ur github or insta name
+global.owner = ['6281386945391'] //ur owner number
+global.ownername = "Nizar"
+global.ytname = "Instagram @nizarrrahman.f_" //ur yt chanel name
+global.socialm = "GitHub: nizarrahman" //ur github or insta name
 global.location = "Tokyo, Japan" //ur location
 
 //bot bombdy
 global.botname = "Sankarea-BOT" //ur bot name
-global.websitex = "https://halfyansyah-rest-api.herokuapp.com" //ur website
+global.websitex = "https://nizarrahman.000webhostapp.com/" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
-global.packname = "Created By Sankarea-BOT\n└ Follow Ig @khlfyrmdni"
-global.author = "Owner\n└ Khalfy Ramadhani"
+global.packname = "Created By Sankarea-BOT\n└ Follow Ig @nizarrrahman.f"
+global.author = "Owner\n└ Nizar Rahman"
 global.themeemoji = "❖"
 global.reactmoji = "⏱️"
 global.ownertag = ['0'] //ur owner tag
-global.ownernummenu = ['436993190999919'] //ur owner number in menu and all
-global.watermark = "© Rea" //ur watermark
-global.botscript = "https://instagram.com/khlfyrmdni"
-global.linkz1 = "https://wa.me/436993190999919?text=Hi+Fukaa"
-global.linkz2 = "https://wa.me/436993190999919?text=Hi+Fukaa"
+global.ownernummenu = ['6281386945391'] //ur owner number in menu and all
+global.watermark = "© Nizar Rahman" //ur watermark
+global.botscript = "https://instagram.com/nizarrrahman.f_"
+global.linkz1 = "https://wa.me/79303907397?text=Hi+Fukaa"
+global.linkz2 = "https://wa.me/79303907397?text=Hi+Fukaa"
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -104,9 +104,9 @@ global.mess = {
     wait: 'Scrapping..',
     linkm: 'Where is the link?',
     error: 'Error!',
-    ban: 'You have been banned by the owner, if you want to be unbanned, chat owner.\nwa.me/436993190999919',
+    ban: 'You have been banned by the owner, if you want to be unbanned, chat owner.\nwa.me/6281386945391',
     nsfw: 'The nsfw feature has not been activated, please contact the admin to activate\nType *.nsfw on* to activate this feature',
-    banChat: 'The bot was banned in this group, please contact wa.me/436993190999919 to unban'
+    banChat: 'The bot was banned in this group, please contact wa.me/6281386945391 to unban'
 }
 global.limitawal = {
     premium: "Infinity",
